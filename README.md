@@ -50,13 +50,4 @@
       <a href="https://github.com/Kucheu/LoopTrain"><img width="30" src="icons/GitHub.png" /></a>
       </td>
   </tr>
-  <tr>
-    <td width="300"><img src="gifs/SnowballFighterGif.gif" alt="Snowball Fighter gif"></td>
-    <td>
-      <h3>Snowball Fighter (2025)</h3>
-      Dive into a winter wonderland and battle online to prove who’s the ultimate snowball fight champion.
-      </br></br>
-      <a href="https://github.com/Kucheu/SnowballFight-Unity"><img width="30" src="icons/GitHub.png" /></a>
-      </td>
-  </tr>
 </table>
